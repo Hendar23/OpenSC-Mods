@@ -16,12 +16,12 @@
       "id": "clownfish",
       "name": "Clownfish",
       "description": "Adds clownfish to the game. A reskin of the jackfish. Made in MSPaint by Hendar23 ",
-      "version": "1.0",
+      "version": "1.1",
       "min_game_version": "0.8.2",
-      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/clownfish-v1.0/clownfish-1.0.zip",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/clownfish-v1.1/clownfish-1.1.zip",
       "size": 10574,
       "unpacked_size": 11531,
-      "sha256": "878624c99d14fc71bb12c1bc5b0ef7a5daab0e56ea582aec6792807cd9e507a5"
+      "sha256": "505d0916cf849ca696fd3512310c2d7a2334ae549d25f37da306f1e30303c773"
     },
     {
       "id": "sea-mine-model",
