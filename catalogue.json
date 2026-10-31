@@ -11,6 +11,39 @@
       "size": 464855713,
       "unpacked_size": 465428817,
       "sha256": "b408234a9d4ded786110063c081d66282075cae28a95886388c78d4f298af57c"
+    },
+    {
+      "id": "clownfish",
+      "name": "Clownfish",
+      "description": "Adds clownfish to the game. A reskin of the jackfish. Made in MSPaint by Hendar23 ",
+      "version": "1.0",
+      "min_game_version": "0.8.2",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/clownfish-v1.0/clownfish-1.0.zip",
+      "size": 10574,
+      "unpacked_size": 11531,
+      "sha256": "878624c99d14fc71bb12c1bc5b0ef7a5daab0e56ea582aec6792807cd9e507a5"
+    },
+    {
+      "id": "sea-mine-model",
+      "name": "Sea Mine: 3D Model",
+      "description": "3D Mine model.\n\n\"sea mine\" (https://skfb.ly/onJQC) by AbsoluteMadLadd is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).",
+      "version": "1.0",
+      "min_game_version": "0.8.2",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/sea-mine-model-v1.0/sea-mine-model-1.0.zip",
+      "size": 5159211,
+      "unpacked_size": 5819710,
+      "sha256": "3e8c75ed4ac287d871e8dfa498f26f5f491669a5e6f27127adc00791b96d4621"
+    },
+    {
+      "id": "test-3d-map-instrument",
+      "name": "Test 3D HUD instruments",
+      "description": "Replaces all five HUD panels with physical 3D cockpit instruments and live illuminated displays. AI GENERATED ASSETS Just for testing modding.",
+      "version": "0.2",
+      "min_game_version": "0.8.2",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/test-3d-map-instrument-v0.2/test-3d-map-instrument-0.2.zip",
+      "size": 1681085,
+      "unpacked_size": 12762050,
+      "sha256": "b9073c8e691180d3049412d150c4fc42b28afbe67a281485d33598b42da8835b"
     }
   ]
 }
