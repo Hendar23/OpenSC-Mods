@@ -44,17 +44,6 @@
       "size": 1681085,
       "unpacked_size": 12762050,
       "sha256": "b9073c8e691180d3049412d150c4fc42b28afbe67a281485d33598b42da8835b"
-    },
-    {
-      "id": "marine-biome",
-      "name": "Marine Biome",
-      "description": "Scattered marine scenery and ocean plants by lugiagames and corals by arvart-lit",
-      "version": "0.4.3",
-      "min_game_version": "0.9.1",
-      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/marine-biome-v0.4.3/marine-biome-0.4.3.zip",
-      "size": 57348929,
-      "unpacked_size": 65921773,
-      "sha256": "0b415be2fc71373d01fc3e36712182c545c8d53ac2aa5dbc90781c258c400dbb"
     }
   ]
 }
