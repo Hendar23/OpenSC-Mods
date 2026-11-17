@@ -35,26 +35,15 @@
       "sha256": "3e8c75ed4ac287d871e8dfa498f26f5f491669a5e6f27127adc00791b96d4621"
     },
     {
-      "id": "test-3d-map-instrument",
-      "name": "Test 3D HUD instruments",
-      "description": "Replaces all five HUD panels with physical 3D cockpit instruments and live illuminated displays. AI GENERATED ASSETS Just for testing modding.",
-      "version": "0.2",
-      "min_game_version": "0.8.2",
-      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/test-3d-map-instrument-v0.2/test-3d-map-instrument-0.2.zip",
-      "size": 1681085,
-      "unpacked_size": 12762050,
-      "sha256": "b9073c8e691180d3049412d150c4fc42b28afbe67a281485d33598b42da8835b"
-    },
-    {
       "id": "high-poly-terrain",
       "name": "High-Poly Terrain",
-      "description": "Rounds seabed ridges, steep cliffs, the Buried Pipe and the starting tin can. Adds rock relief and sand ripples across the map. Collision follows the rounded geometry. Requires the updated source build.",
-      "version": "0.5.1",
+      "description": "Replaces the terrain with a higher poly version.",
+      "version": "0.5.2",
       "min_game_version": "0.9.2",
-      "size": 20693107,
-      "unpacked_size": 20817089,
-      "sha256": "2f04e32126b642fc69b37680c8a17247cba9ddd27f988e405606e56ce96a958f",
-      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/high-poly-terrain-v0.5.1/high-poly-terrain-0.5.1.zip"
+      "size": 20903768,
+      "unpacked_size": 21028114,
+      "sha256": "309e8f871b9b91705aca69feb4d3878f8e8e75c7b2ad50156072cd923a7a6ae4",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/high-poly-terrain-v0.5.2/high-poly-terrain-0.5.2.zip"
     }
   ]
 }
