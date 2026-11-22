@@ -44,6 +44,17 @@
       "unpacked_size": 21028114,
       "sha256": "309e8f871b9b91705aca69feb4d3878f8e8e75c7b2ad50156072cd923a7a6ae4",
       "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/high-poly-terrain-v0.5.2/high-poly-terrain-0.5.2.zip"
+    },
+    {
+      "id": "full-moon",
+      "name": "Full Moon",
+      "version": "1.1.0",
+      "description": "Adds moonlight to illuminate the nights.",
+      "min_game_version": "1.1.2",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/full-moon-v1.1.0/full-moon-1.1.0-mod.zip",
+      "size": 259,
+      "unpacked_size": 181,
+      "sha256": "771b767bda527f8e952acb4af8d6e98e1d9343081af2bf20cffda886063ee381"
     }
   ]
 }
