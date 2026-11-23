@@ -55,6 +55,17 @@
       "size": 259,
       "unpacked_size": 181,
       "sha256": "771b767bda527f8e952acb4af8d6e98e1d9343081af2bf20cffda886063ee381"
+    },
+    {
+      "id": "3d-bubbles",
+      "name": "Bubbles: 3D Model",
+      "version": "1.0",
+      "description": "Transparent 3D bubbles for submarine wakes and death effects. Free Bubble Kit by SpeedyGonzalesJR, CC BY 4.0.",
+      "min_game_version": "0.8.3",
+      "url": "https://github.com/Hendar23/OpenSC-Mods/releases/download/3d-bubbles-v1.0/3d-bubbles-1.0.zip",
+      "size": 60039,
+      "unpacked_size": 73375,
+      "sha256": "91291510433b37901cfec5ff5e69774846a810a679c9707406864a999b8d58c1"
     }
   ]
 }
